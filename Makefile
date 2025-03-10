@@ -3,7 +3,7 @@
 all: format theme
 
 theme: clean
-	python3 tools/theme_assembler.py
+	python3 tools/theme_assembler.py --name Chestnut
 
 clean:
 	@echo "Cleaning theme directory..."

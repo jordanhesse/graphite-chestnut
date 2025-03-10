@@ -2,7 +2,7 @@
 # Light theme color tokens
 ##################################################
 
-token-rgb-primary: 255, 158, 0
+token-rgb-primary: 0, 150, 255
 token-rgb-black: 0, 0, 0
 token-rgb-white: 240, 243, 255
 token-rgb-purple: 129, 45, 250
@@ -45,8 +45,8 @@ token-color-text-sidebar-selected: var(--token-color-text-primary)
 token-color-text-sidebar: var(--token-color-text-secondary)
 token-color-text-label-badge: rgba(19, 21, 54, 0.7)
 token-color-text-chip: var(--token-color-black)
-token-color-background-base: rgb(228, 229, 233)
-token-color-background-secondary: rgb(245, 245, 245)
+token-color-background-base: rgb(242, 242, 247)
+token-color-background-secondary: rgb(227, 227, 231)
 token-color-background-sidebar: var(--token-color-background-base)
 token-color-background-input-base: rgb(255, 255, 255)
 token-color-background-input-disabled: rgb(245, 245, 245)
@@ -67,4 +67,4 @@ token-color-switch-track-unchecked: rgba(0, 0, 0, 0.25)
 token-color-codemirror-string: rgb(0, 77, 153)
 token-color-codemirror-keyword: rgb(70, 112, 216)
 token-color-codemirror-number: rgb(204, 85, 0)
-token-shadow-card-medium: 0 2px 18px 0px rgba(0, 0, 0, 0.08)
+token-shadow-card-medium: none
